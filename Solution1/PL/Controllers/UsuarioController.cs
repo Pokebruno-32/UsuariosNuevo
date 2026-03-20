@@ -8,7 +8,7 @@ namespace PL.Controllers
         public IActionResult GetAll()
         {
             ML.Result result = BL.Usuario.GetAll();
-            return View(result); // Renderiza la vista GetAll.cshtml
+            return View(result); 
         }
 
         [HttpGet]
@@ -45,7 +45,7 @@ namespace PL.Controllers
                     if (existing.Correct)
                     {
                         var usuarioExistente = (ML.Usuario)existing.Object;
-                        usuario.Password = usuarioExistente.Password; // conserva la contraseña actual
+                        usuario.Password = usuarioExistente.Password;
                     }
                 }
 

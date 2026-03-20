@@ -88,7 +88,7 @@
                     {
                         NombreCompleto = usuario.NombreCompleto,
                         NombreUsuario = usuario.NombreUsuario,
-                        Password = usuario.Password, // aquí luego encriptamos
+                        Password = usuario.Password, 
                         Correo = usuario.Correo,
                         Estatus = usuario.Estatus,
                         FechaAlta = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
@@ -118,7 +118,7 @@
                     {
                         u.NombreCompleto = usuario.NombreCompleto;
                         u.NombreUsuario = usuario.NombreUsuario;
-                        u.Password = usuario.Password; // aquí luego encriptamos
+                        u.Password = usuario.Password; 
                         u.Correo = usuario.Correo;
                         u.Estatus = usuario.Estatus;
                         u.FechaModificacion = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");

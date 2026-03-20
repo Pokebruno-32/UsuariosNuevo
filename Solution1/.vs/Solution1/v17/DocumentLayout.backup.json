@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|c:\\users\\digis\\onedrive\\documents\\bruno morales albavera\\bmoralesusuario\\solution1\\pl\\views\\usuario\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|solutionrelative:pl\\views\\usuario\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|c:\\users\\digis\\onedrive\\documents\\bruno morales albavera\\bmoralesusuario\\solution1\\pl\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|solutionrelative:pl\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|c:\\users\\digis\\onedrive\\documents\\bruno morales albavera\\bmoralesusuario\\solution1\\pl\\views\\usuario\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|solutionrelative:pl\\views\\usuario\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|c:\\users\\digis\\onedrive\\documents\\bruno morales albavera\\bmoralesusuario\\solution1\\pl\\views\\usuario\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A688739E-4FD4-49E7-A5CC-08BEBBFDA05C}|PL\\PL.csproj|solutionrelative:pl\\views\\usuario\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B62A87ED-0336-4AFF-9F1C-6377D97B0456}|BL\\BL.csproj|c:\\users\\digis\\onedrive\\documents\\bruno morales albavera\\bmoralesusuario\\solution1\\bl\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 578,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Views\\Usuario\\GetAll.cshtml",
               "RelativeDocumentMoniker": "PL\\Views\\Usuario\\GetAll.cshtml",
               "ToolTip": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Views\\Usuario\\GetAll.cshtml",
               "RelativeToolTip": "PL\\Views\\Usuario\\GetAll.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-20T17:40:43.407Z",
               "IsPinned": true,
@@ -112,26 +112,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form.cshtml",
               "DocumentMoniker": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Views\\Usuario\\Form.cshtml",
               "RelativeDocumentMoniker": "PL\\Views\\Usuario\\Form.cshtml",
               "ToolTip": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Views\\Usuario\\Form.cshtml",
               "RelativeToolTip": "PL\\Views\\Usuario\\Form.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-20T17:47:05.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "PL\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\digis\\OneDrive\\Documents\\Bruno Morales Albavera\\BMoralesUsuario\\Solution1\\PL\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "PL\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA6wDMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T17:46:06.203Z",
               "EditorCaption": ""
